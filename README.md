@@ -272,6 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you publish results using these algorithms, please cite:
 
+```
 @misc{uzrad2026engineeringalgorithmsdynamicgreedy,
       title={Engineering Algorithms for Dynamic Greedy Set Cover}, 
       author={Amitai Uzrad},
@@ -281,3 +282,4 @@ If you publish results using these algorithms, please cite:
       primaryClass={cs.DS},
       url={https://arxiv.org/abs/2604.03152}, 
 }
+```

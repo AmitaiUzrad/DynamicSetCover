@@ -1,6 +1,6 @@
 # Dynamic Set Cover
 
-This repository contains the implementation for dynamic set cover algorithms from the paper "Engineering Algorithms for Dynamic Greedy Set Cover".
+This repository contains the implementation for dynamic set cover algorithms from the paper "Engineering Algorithms for Dynamic Greedy Set Cover", accepted to SEA 2026. https://arxiv.org/abs/2604.03152v1
 
 ## Table of Contents
 
@@ -270,5 +270,14 @@ In this example:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+If you publish results using these algorithms, please cite:
 
-This project is currently under double-blind review. If you publish results using these algorithms, or if you have any other questions, please contact our anonymous email at: dynamicsetcover@gmail.com
+@misc{uzrad2026engineeringalgorithmsdynamicgreedy,
+      title={Engineering Algorithms for Dynamic Greedy Set Cover}, 
+      author={Amitai Uzrad},
+      year={2026},
+      eprint={2604.03152},
+      archivePrefix={arXiv},
+      primaryClass={cs.DS},
+      url={https://arxiv.org/abs/2604.03152}, 
+}

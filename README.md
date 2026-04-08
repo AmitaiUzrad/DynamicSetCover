@@ -26,7 +26,7 @@ This repository contains the implementation for dynamic set cover algorithms fro
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/DynamicSetCover/DynamicSetCover.git
+   git clone https://github.com/AmitaiUzrad/DynamicSetCover.git
    ```
 2. Navigate to the project directory:
    ```bash
